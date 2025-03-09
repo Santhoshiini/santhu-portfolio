@@ -2,9 +2,6 @@
 
 Welcome to my portfolio repository! This project showcases my skills, projects, and contact details.
 
-## 🚀 Live Preview
-You can view my portfolio live at: [GitHub Pages (if deployed)](https://your-github-username.github.io/portfolio/)
-
 ## 📌 About Me
 I’m **Sri Santhoshini**, an AI & Data Science student passionate about **Data Analytics** and **Software Development**. I enjoy solving real-world problems with data-driven insights and building interactive web applications.
 
